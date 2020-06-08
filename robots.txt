@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
-sitemap: sitemap.xml
+sitemap: https://3135-3139ohiostreet.com/sitemap.xml
